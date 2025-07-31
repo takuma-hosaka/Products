@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/bf483220d4ee4538a1bb73d346373954/artifacts
+end_time: 1750233227418
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: bf483220d4ee4538a1bb73d346373954
+run_name: bright-loon-590
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233227345
+status: 3
+tags: []
+user_id: thosa

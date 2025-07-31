@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/30fa7bf789dd4419bb5ca6125831efb7/artifacts
+end_time: 1750233525775
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 30fa7bf789dd4419bb5ca6125831efb7
+run_name: nervous-mare-233
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233525690
+status: 3
+tags: []
+user_id: thosa

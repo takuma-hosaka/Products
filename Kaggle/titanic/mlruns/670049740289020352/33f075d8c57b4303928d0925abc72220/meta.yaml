@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/33f075d8c57b4303928d0925abc72220/artifacts
+end_time: 1750235383511
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 33f075d8c57b4303928d0925abc72220
+run_name: masked-stoat-867
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750235383360
+status: 3
+tags: []
+user_id: thosa

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/8b06382dcd4a4a209944c82445aabd74/artifacts
+end_time: 1750233218884
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 8b06382dcd4a4a209944c82445aabd74
+run_name: luxuriant-croc-715
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233218766
+status: 3
+tags: []
+user_id: thosa

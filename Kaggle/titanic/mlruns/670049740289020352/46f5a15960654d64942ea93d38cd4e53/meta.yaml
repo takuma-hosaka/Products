@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/46f5a15960654d64942ea93d38cd4e53/artifacts
+end_time: 1750234456366
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 46f5a15960654d64942ea93d38cd4e53
+run_name: stylish-hawk-208
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234456271
+status: 3
+tags: []
+user_id: thosa

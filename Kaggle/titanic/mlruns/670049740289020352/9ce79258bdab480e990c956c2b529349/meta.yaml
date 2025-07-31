@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/9ce79258bdab480e990c956c2b529349/artifacts
+end_time: 1750233661076
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 9ce79258bdab480e990c956c2b529349
+run_name: wise-mouse-665
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233660996
+status: 3
+tags: []
+user_id: thosa

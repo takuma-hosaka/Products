@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/b8e7b6cad6314a2f919a8149429765dc/artifacts
+end_time: 1750233222386
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: b8e7b6cad6314a2f919a8149429765dc
+run_name: ambitious-cod-534
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233222305
+status: 3
+tags: []
+user_id: thosa

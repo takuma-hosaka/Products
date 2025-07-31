@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/f309e7fcc0c348909eefbdb0e8f99d41/artifacts
+end_time: 1750233528185
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: f309e7fcc0c348909eefbdb0e8f99d41
+run_name: loud-hen-843
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233528101
+status: 3
+tags: []
+user_id: thosa

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/44f7067a668f4617ace8c1fd5ed8bcb2/artifacts
+end_time: 1750233230778
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 44f7067a668f4617ace8c1fd5ed8bcb2
+run_name: loud-kite-216
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233230697
+status: 3
+tags: []
+user_id: thosa

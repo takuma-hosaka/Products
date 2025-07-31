@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/daa0cce1ce5c450a88969f4c4cdfc4d0/artifacts
+end_time: 1750234707974
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: daa0cce1ce5c450a88969f4c4cdfc4d0
+run_name: traveling-newt-777
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234707777
+status: 3
+tags: []
+user_id: thosa

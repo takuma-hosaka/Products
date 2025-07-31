@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/02f6e40ea2f74075b9f8f4f5ca68df2a/artifacts
+end_time: 1750233225283
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 02f6e40ea2f74075b9f8f4f5ca68df2a
+run_name: gaudy-goose-999
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233225210
+status: 3
+tags: []
+user_id: thosa

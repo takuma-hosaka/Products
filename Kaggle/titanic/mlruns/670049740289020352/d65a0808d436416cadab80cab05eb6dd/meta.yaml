@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/d65a0808d436416cadab80cab05eb6dd/artifacts
+end_time: 1750233231407
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: d65a0808d436416cadab80cab05eb6dd
+run_name: unleashed-doe-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233231314
+status: 3
+tags: []
+user_id: thosa

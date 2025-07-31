@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/6bbbfa8574a04157ba2e7d31e7440246/artifacts
+end_time: 1750233227773
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 6bbbfa8574a04157ba2e7d31e7440246
+run_name: capricious-eel-354
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233227697
+status: 3
+tags: []
+user_id: thosa

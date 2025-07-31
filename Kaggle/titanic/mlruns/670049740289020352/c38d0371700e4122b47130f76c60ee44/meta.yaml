@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/c38d0371700e4122b47130f76c60ee44/artifacts
+end_time: 1750233511825
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: c38d0371700e4122b47130f76c60ee44
+run_name: suave-asp-328
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233511720
+status: 3
+tags: []
+user_id: thosa

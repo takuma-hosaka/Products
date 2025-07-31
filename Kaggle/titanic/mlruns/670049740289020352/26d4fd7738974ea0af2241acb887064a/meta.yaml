@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/26d4fd7738974ea0af2241acb887064a/artifacts
+end_time: 1750233230616
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 26d4fd7738974ea0af2241acb887064a
+run_name: gentle-wasp-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233230530
+status: 3
+tags: []
+user_id: thosa

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/3b8b3809ba2744d691c9d7f7d12fa1a2/artifacts
+end_time: 1750233674248
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 3b8b3809ba2744d691c9d7f7d12fa1a2
+run_name: industrious-wasp-381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233674159
+status: 3
+tags: []
+user_id: thosa

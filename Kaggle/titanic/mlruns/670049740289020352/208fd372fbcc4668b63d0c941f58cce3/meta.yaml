@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/208fd372fbcc4668b63d0c941f58cce3/artifacts
+end_time: 1750233526404
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 208fd372fbcc4668b63d0c941f58cce3
+run_name: sophisticated-pug-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233526312
+status: 3
+tags: []
+user_id: thosa

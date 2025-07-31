@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/92acdccaeca14ca482448c6ee83293fb/artifacts
+end_time: 1750233672737
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 92acdccaeca14ca482448c6ee83293fb
+run_name: unruly-sloth-399
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233672658
+status: 3
+tags: []
+user_id: thosa

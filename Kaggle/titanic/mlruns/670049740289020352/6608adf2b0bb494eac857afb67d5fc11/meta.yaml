@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/6608adf2b0bb494eac857afb67d5fc11/artifacts
+end_time: 1750234465011
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 6608adf2b0bb494eac857afb67d5fc11
+run_name: bald-crane-136
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234464911
+status: 3
+tags: []
+user_id: thosa

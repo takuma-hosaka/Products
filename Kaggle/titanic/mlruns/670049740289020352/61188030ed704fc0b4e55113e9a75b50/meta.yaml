@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/61188030ed704fc0b4e55113e9a75b50/artifacts
+end_time: 1750234453606
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 61188030ed704fc0b4e55113e9a75b50
+run_name: selective-midge-410
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750234453511
+status: 3
+tags: []
+user_id: thosa

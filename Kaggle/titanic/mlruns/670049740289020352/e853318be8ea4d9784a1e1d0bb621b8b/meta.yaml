@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/e853318be8ea4d9784a1e1d0bb621b8b/artifacts
+end_time: 1750235386059
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: e853318be8ea4d9784a1e1d0bb621b8b
+run_name: bustling-fawn-684
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750235385901
+status: 3
+tags: []
+user_id: thosa

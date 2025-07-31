@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/6c80fc46d91445e3950bb44f521ef068/artifacts
+end_time: 1750233660885
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: 6c80fc46d91445e3950bb44f521ef068
+run_name: learned-shark-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233660796
+status: 3
+tags: []
+user_id: thosa

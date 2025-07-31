@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/thosa/OneDrive/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88/Products/Kaggle/titanic/mlruns/670049740289020352/e889d2ea0dde4a62a4c860fb5be57665/artifacts
+end_time: 1750233222549
+entry_point_name: ''
+experiment_id: '670049740289020352'
+lifecycle_stage: active
+run_id: e889d2ea0dde4a62a4c860fb5be57665
+run_name: zealous-seal-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1750233222469
+status: 3
+tags: []
+user_id: thosa
